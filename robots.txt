@@ -1,0 +1,1 @@
+Sitemap: https://github.com/vangberg/adventures-in-bioimaging/sitemap.xml
