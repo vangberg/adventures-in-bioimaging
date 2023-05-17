@@ -1,5 +1,5 @@
 ---
-title: "adventures-in-bioimaging"
+title: "Adventures in Bioimaging"
 ---
 
 This is a Quarto website.

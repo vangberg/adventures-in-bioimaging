@@ -17,6 +17,8 @@ format:
     theme: flatly
     css: styles.css
     toc: true
+    header-includes: |
+      <script defer data-domain="vangberg.github.io/adventures-in-bioimaging" src="https://plausible.io/js/script.js"></script>
 
 editor: visual
 
